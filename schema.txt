@@ -1,0 +1,7 @@
+lsoa_code:string,
+borough:string,
+major_category:string,
+minor_category:string,
+value:integer,
+year:integer,
+month:integer

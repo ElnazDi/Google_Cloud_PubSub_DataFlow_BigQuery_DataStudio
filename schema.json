@@ -1,0 +1,11 @@
+{
+    "BigQuery Schema": [
+        {"name": "lsoa_code", "type": "STRING"},
+        {"name": "borough", "type": "STRING"},
+        {"name": "major_category", "type": "STRING"},
+        {"name": "minor_category", "type": "STRING"},
+        {"name": "value", "type": "NUMBER"},
+        {"name": "year", "type": "NUMBER"},
+        {"name": "month", "type": "NUMBER"}
+    ]
+}
